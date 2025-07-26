@@ -28,7 +28,7 @@ on:
   push:
     branches-ignore: [ main ]
   release:
-    types: [ edited, released ]
+    types: [ edited, published ]
   workflow_dispatch:
 
 concurrency:

@@ -1,5 +1,5 @@
 # MegaLinter Custom Flavor configuration
-name: python-light
+label: python-light
 linters:
   - PYTHON_BANDIT
   - PYTHON_BLACK
